@@ -1,5 +1,7 @@
 # Airport Security Screening: A Discrete-Event Simulation
 
+A discrete-event simulation of an airport security system to analyze queueing dynamics and identify bottlenecks.
+
 ## Project Structure
 
 ```
